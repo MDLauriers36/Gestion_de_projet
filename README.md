@@ -1,5 +1,5 @@
 # Gestion_de_projet
-Cours Gestion de projet multimédia
+
 
 Le but du jeu est de créer de l'interactivité entre le monde réel et le monde virtuel.
 
