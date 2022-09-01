@@ -9,3 +9,4 @@ Il serait nécessaire de créer trois ou quatre autres interractivité pour que 
 
 L'installation ferait l'utilisation d'objets réels, de création d'univers 3d et de l'utilisation de la kinect.
 
+![Drag Racing](grotte.jpg)
