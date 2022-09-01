@@ -11,4 +11,4 @@ L'installation ferait l'utilisation d'objets réels, de création d'univers 3d e
 
 <img src="grotte.jpg"
      alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />
+     style="width: 50px;" />
