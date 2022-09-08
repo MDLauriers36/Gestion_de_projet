@@ -30,3 +30,8 @@ Par exemple, si l'on entre dans une grotte sombre, pour avoir de la lumière dan
 <img src="grotte.jpg"
      alt="Markdown Monster icon"
      style="width: 500px;" />
+     
+  <img src="couloir.jpg"
+     alt="Markdown Monster icon"
+     style="width: 500px;" />
+
