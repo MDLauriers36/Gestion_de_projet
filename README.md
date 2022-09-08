@@ -23,7 +23,7 @@ Le jeu se déroulerait dans un environnement sombre tel une grotte ou un endroit
 Par exemple, si l'on entre dans une grotte sombre, pour avoir de la lumière dans le monde virtuel, il faudrait allumer une lumière dans le monde réel, et ainsi de suite.
 
 
-<img src="fichier.drawio.jpg"
+<img src="fichier.drawio.png"
      alt="Markdown Monster icon"
      style="width: 500px;" />
 
